@@ -1,0 +1,2 @@
+# Knowledge-Representation-in-Health-Care-Delivery
+This work has as its main objective the representation of perfect and imperfect knowledge,  to characterize a universe of discourse in the area of health care provision. It is also intended to  develop a system to support medical diagnosis  medical diagnosis, therapy and prescription of treatments and/or drugs, using  production for knowledge representation and creation of reasoning mechanisms.  For this, the PROLOG logic programming language was used.  
